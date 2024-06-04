@@ -33,6 +33,10 @@
     "lint": "npm run_eslint --max-warnings 0",
     "lint:fix": "npm run_eslint --fix"
   },
+  "engines": {
+    "node": "20.14.0",
+    "npm": "10.7.0"
+  },
   "dependencies": {
     "@babel/core": "^7.24.6",
     "@babel/preset-env": "^7.24.6",
