@@ -1,15 +1,14 @@
-![Badge](./src/assets/banner.svg)
-
-# React boilerplate
-![Badge](https://img.shields.io/static/v1?label=NodeJS&message=v14.17.6&color=blue&logo=node.js)
-![Badge](https://img.shields.io/static/v1?label=NPM&message=v6.14.15&color=blue&logo=npm)
-![Badge](https://img.shields.io/static/v1?label=React&message=v17.0.2&color=blue&logo=React)
-![Badge](https://img.shields.io/static/v1?label=Jest&message=v27.2.0&color=blue&logo=Jest)
-![Badge](https://img.shields.io/github/license/ramon-ferreira/react-boilerplate)
-![Badge](https://img.shields.io/static/v1?label=Pull%20requests&message=Welcome&color=green&logo=Git)
+# Pokedex
+![Badge](https://img.shields.io/static/v1?label=NodeJS&message=v20.14.0&color=blue&logo=node.js)
+![Badge](https://img.shields.io/static/v1?label=NPM&message=v10.7.0&color=blue&logo=npm)
+![Badge](https://img.shields.io/static/v1?label=React&message=v18.3.1&color=blue&logo=React)
+![Badge](https://img.shields.io/static/v1?label=Jest&message=v29.7.0&color=blue&logo=Jest)
+![Badge](https://img.shields.io/github/license/ramon-ferreira/pokedex)
+![Badge](https://img.shields.io/static/v1?label=Pull%20requests&message=Not%20welcome&color=orange&logo=Git)
 
 ## About
-This project is a start point to make small projects creation faster without a lot of resources like [create-react-app](https://github.com/facebook/create-react-app).
+The Pokédex contains detailed stats for every creature from the Pokémon.
+Source [Poke API](https://pokeapi.co/).
 
 ## Installation
 Just execute `npm install`.
